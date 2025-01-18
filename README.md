@@ -15,7 +15,7 @@ I am a passionate Web Developer. In my free time, I enjoy coding. Check out my [
 ---
 
 ## 🌐 Socials:
-![Linkedin](https://www.linkedin.com/in/alka-gupta123/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alka-gupta680/)
 
 ---
 
