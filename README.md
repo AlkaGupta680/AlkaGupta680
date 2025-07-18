@@ -1,6 +1,6 @@
 # Hi there 👋, It's Alka!
 
-I am a passionate Web Developer. In my free time, I enjoy coding. Check out my [portfolio](https://alkagupta680.github.io/portfolio-main/) for more.
+I am a passionate Web Developer. In my free time, I enjoy coding. Check out my [portfolio](https://cute-dolphin-4b4e66.netlify.app/) for more.
 
 ---
 
